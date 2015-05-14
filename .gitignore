@@ -13,3 +13,10 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+logs
+project/project
+project/target
+target
+tmp
+dist
+.cache
